@@ -1,8 +1,6 @@
 ### Hi there 👋
 </br>
 
-# Repository Title Goes Here
-
 # My Github Collection
 
 > Simple Flutter Dashboard Application
