@@ -19,6 +19,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/mohitagrawal939?style=flat&logo=linkedin">
   </a> &nbsp; 
   <a href="https://twitter.com/mohitagrawal939">
-    <img src="https://img.shields.io/badge/@mohitagrawal939?style=flat&logo=twitter">
+    <img src="https://img.shields.io/badge/@mohitagrawal939-30302f?style=flat&logo=twitter">
   </a>
 </p>
