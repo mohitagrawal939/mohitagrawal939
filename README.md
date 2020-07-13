@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <p>
+  <a href="https://www.linkedin.com/in/mohitagrawal939">
+    <img src="https://img.shields.io/badge/mohitagrawal939?style=flat&logo=linkedin">
+  </a> &nbsp; 
+  <a href="https://twitter.com/mohitagrawal939">
+    <img src="https://img.shields.io/badge/@mohitagrawal939?style=flat&logo=twitter">
+  </a>
+</p>
