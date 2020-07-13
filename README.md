@@ -17,6 +17,6 @@
     <img src="https://img.shields.io/badge/@mohitagrawal939@gmail.com-30302f?style=flat&logo=gmail">
   </a> </br>
   <a href="https://hackerrank.com/mohitagrawal939">
-    <img src="https://img.shields.io/badge/@mohitagrawal939@gmail.com-30302f?style=flat&logo=hackerrank">
+    <img src="https://img.shields.io/badge/@mohitagrawal939-30302f?style=flat&logo=hackerrank">
   </a>
 </p>
