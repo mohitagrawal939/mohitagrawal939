@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-</br>
-</br>
 </br>
  <p>
   <a href="https://www.linkedin.com/in/mohitagrawal939">
