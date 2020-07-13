@@ -11,10 +11,10 @@
  <p>
   <a href="https://www.linkedin.com/in/mohitagrawal939">
     <img src="https://img.shields.io/badge/mohitagrawal939-30302f?style=flat&logo=linkedin">
-  </a> </br>
+  </a> &nbsp;
   <a href="https://twitter.com/mohitagrawal939">
     <img src="https://img.shields.io/badge/@mohitagrawal939-30302f?style=flat&logo=twitter">
-  </a>  </br>
+  </a> &nbsp;
   <a href="https://hackerrank.com/mohitagrawal939">
     <img src="https://img.shields.io/badge/@mohitagrawal939-30302f?style=flat&logo=hackerrank">
   </a></br>
