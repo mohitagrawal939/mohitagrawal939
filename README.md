@@ -17,10 +17,10 @@ Here are some ideas to get you started:
  <p>
   <a href="https://www.linkedin.com/in/mohitagrawal939">
     <img src="https://img.shields.io/badge/mohitagrawal939-30302f?style=flat&logo=linkedin">
-  </a> &nbsp; 
+  </a> </br>
   <a href="https://twitter.com/mohitagrawal939">
     <img src="https://img.shields.io/badge/@mohitagrawal939-30302f?style=flat&logo=twitter">
-  </a>  &nbsp; 
+  </a> </br>
   <a href="mailto:mohitagrawal939@gmail.com">
     <img src="https://img.shields.io/badge/@mohitagrawal939@gmail.com-30302f?style=flat&logo=gmail">
   </a>
