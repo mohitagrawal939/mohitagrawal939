@@ -10,13 +10,13 @@
 
  <p>
  <a href="https://mohitagrawal939.github.io">
-    <img src="https://img.shields.io/badge/Mohit Agrawal-30302f?style=flat&logo=website">
+    <img src="https://img.shields.io/badge/Mohit Agrawal-30302f?style=flat&logo=web">
   </a></br>
   <a href="mailto:mohitagrawal939@gmail.com">
     <img src="https://img.shields.io/badge/@mohitagrawal939@gmail.com-30302f?style=flat&logo=gmail">
   </a></br>
   <a href="https://www.linkedin.com/in/mohitagrawal939">
-    <img src="https://img.shields.io/badge/mohitagrawal939-30302f?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/@mohitagrawal939-30302f?style=flat&logo=linkedin">
   </a> &nbsp;
   <a href="https://twitter.com/mohitagrawal939">
     <img src="https://img.shields.io/badge/@mohitagrawal939-30302f?style=flat&logo=twitter">
