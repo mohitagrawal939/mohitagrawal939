@@ -10,19 +10,19 @@
 
  <p>
  </br>
-  <a href="https://mohitagrawal939.github.io">
+  <a href="https://mohitagrawal939.github.io" target="_blank">
    <img src="https://img.shields.io/badge/🌎 @mohitagrawal939.github.io-30302f?style=flat">
   </a></br>
-  <a href="mailto:mohitagrawal939@gmail.com">
+  <a href="mailto:mohitagrawal939@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/@mohitagrawal939@gmail.com-30302f?style=flat&logo=gmail">
   </a></br>
-  <a href="https://www.linkedin.com/in/mohitagrawal939">
+  <a href="https://www.linkedin.com/in/mohitagrawal939" target="_blank">
     <img src="https://img.shields.io/badge/@mohitagrawal939-30302f?style=flat&logo=linkedin">
   </a> &nbsp;
-  <a href="https://twitter.com/mohitagrawal939">
+  <a href="https://twitter.com/mohitagrawal939" target="_blank">
     <img src="https://img.shields.io/badge/@mohitagrawal939-30302f?style=flat&logo=twitter">
   </a> &nbsp;
-  <a href="https://hackerrank.com/mohitagrawal939">
+  <a href="https://hackerrank.com/mohitagrawal939" target="_blank">
     <img src="https://img.shields.io/badge/@mohitagrawal939-30302f?style=flat&logo=hackerrank">
   </a>
 </p>
