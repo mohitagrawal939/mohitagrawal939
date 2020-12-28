@@ -10,7 +10,7 @@
 
  <p>
   <a href="https://mohitagrawal939.github.io">
-      <img src="https://img.shields.io/badge/Website 🌎| Mohit Agrawal-30302f?style=flat&logo=internet">
+   🌎 @mohitagrawal939.github.io
   </a></br>
   <a href="mailto:mohitagrawal939@gmail.com">
     <img src="https://img.shields.io/badge/@mohitagrawal939@gmail.com-30302f?style=flat&logo=gmail">
