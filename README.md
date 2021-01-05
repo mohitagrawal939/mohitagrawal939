@@ -1,14 +1,14 @@
 ### Hi, I'm Mohit 👋 💻
 
-HTML | CSS | BOOTSTRAP | MATERIALIZE CSS | JAVA (CORE) | DART |FLUTTER | MYSQL
+HTML | CSS | BOOTSTRAP | MATERIALIZE CSS | JAVA (CORE) | DART | FLUTTER | MYSQL
 
 # My Github Collection...
 
 <img align ="right" src = "https://github.com/mohitagrawal939/mohitagrawal939.github.io/blob/master/images/circle.png" width="150" height="150"/>
 
-> Simple Flutter Dashboard Application
+* Simple Flutter Dashboard Application
 
-> Personal Portfolio Using Github Pages
+* Personal Portfolio Using Github Pages
 
 </br>
 <img src="https://github-readme-stats.vercel.app/api?username=mohitagrawal939&show_icons=true&theme=gotham" alt="Mohit Agrawal's | Stats" />
