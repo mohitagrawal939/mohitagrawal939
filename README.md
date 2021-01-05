@@ -10,7 +10,7 @@ HTML | CSS | BOOTSTRAP | MATERIALIZE CSS | JAVASCRIPT | JAVA (CORE) | DART | FLU
 
 * Personal Portfolio Using Github Pages
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohitagrawal939&show_icons=true&theme=gotham" alt="Mohit Agrawal's | Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohitagrawal939&show_icons=true&theme=gotham" alt="Mohit Agrawal | Stats" />
 
 <hr/>
 <b><i>Let's connect! Find me on the web.</br></i></br></b>
