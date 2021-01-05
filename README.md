@@ -16,6 +16,7 @@ HTML | CSS | BOOTSTRAP | MATERIALIZE CSS | JAVASCRIPT | JAVA (CORE) | DART | FLU
 <hr/>
 <b><i>Let's connect! Find me on the web.</br></i></br></b>
 
+<a href="https://mohitagrawal939.github.io/" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Hackerrank-success.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white">][Hackerrank]
 <a href="mailto:mohitagrawal939@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
