@@ -1,4 +1,4 @@
-# [Hi, I'm Mohit 👋 💻] (https://mohitagrawal939.github.io)
+# [Hi, I'm Mohit 👋 💻](https://mohitagrawal939.github.io)
 
 HTML | CSS | BOOTSTRAP | MATERIALIZE CSS | JAVASCRIPT | JAVA (CORE) | DART | FLUTTER | MYSQL
 
