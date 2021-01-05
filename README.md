@@ -7,7 +7,7 @@
 > Simple Flutter Dashboard Application
 
 > Personal Portfolio Using Github Pages
-
+</br></br></br>
 <hr />
   <b><i>Let's connect! Find me on the web.</br></i></br></b>
 
