@@ -2,7 +2,7 @@
 
 HTML | CSS | BOOTSTRAP | MATERIALIZE CSS | JAVASCRIPT | JAVA (CORE) | DART | FLUTTER | MYSQL
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=mohitagrawal939 alt=chandrikadeb7/></p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=mohitagrawal939 alt=mohitagrawal939/></p>
 
 # My Github Collection...
 
