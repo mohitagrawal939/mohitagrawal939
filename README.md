@@ -3,6 +3,8 @@ HTML/CSS | REACTJS | NODEJS | JAVASCRIPT | TYPESCRIPT | DART | FLUTTER | MYSQL |
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=mohitagrawal939 alt=mohitagrawal939/></p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=mohitagrawal939&show_icons=true&theme=gotham" alt="Mohit Agrawal | Stats" />
+
 <hr/>
 <b><i>Let's connect! Find me on the web.</br></i></br></b>
 
