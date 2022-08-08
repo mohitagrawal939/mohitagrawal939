@@ -1,5 +1,5 @@
 # [Hi, I'm Mohit](https://mohitagrawal939.github.io) 👋 💻
-HTML/CSS | REACTJS | NODEJS | JAVASCRIPT | DART | FLUTTER | MYSQL | POSTGRESQL | JAVA | SPRING-BOOT
+HTML/CSS | REACTJS | NODEJS | JAVASCRIPT | TYPESCRIPT | DART | FLUTTER | MYSQL | POSTGRESQL | JAVA | SPRING-BOOT
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=mohitagrawal939 alt=mohitagrawal939/></p>
 
