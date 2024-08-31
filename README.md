@@ -31,6 +31,8 @@
 
 <h1 align="center">Connect</h1>
 <p align="center">
+  <a href="mailto:hello@mohitagrawal.xyz">hello@mohitagrawal.xyz</a>
+  </br></br>
   <a href="https://mohitagrawal.xyz" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
