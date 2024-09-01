@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=flat-square&logo=typescript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=flat-square&logo=amazon"/>
     <img src="https://img.shields.io/static/v1?label=|&message=DART&color=cdd148&style=flat-square&logo=dart"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=FLUTTER&color=3a495d&style=flat-square&logo=flutter"/>
     <img src="https://img.shields.io/static/v1?label=|&message=POSTGRESQL&color=98bf53&style=flat-square&logo=postgresql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JENKINS&color=98bf53&style=flat-square&logo=jenkins"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=flat-square&logo=mongodb"/>
