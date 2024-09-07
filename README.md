@@ -1,7 +1,7 @@
 
 <img width="100%" alt="git-banner" src="https://github.com/user-attachments/assets/5e023e81-3a9d-480c-80c1-973c98341f5b">
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=mohitagrawal939 alt=mohitagrawal939/></p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=mohitagrawal939&color=brightgreen alt=mohitagrawal939 /></p>
 
 <h1>My GitHub Stats 👋 💻</h1>
 <img  src="https://streak-stats.demolab.com?user=mohitagrawal939&theme=github_dark-blue&hide_border=true&card_width=550" alt="GitHub Streak"/>
@@ -43,4 +43,7 @@
   <a href="https://mohitagrawal.xyz/Resume.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=1e90ff&style=for-the-badge&logo=react&logo-color=white"/>
   </a>
+<!--   <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=DISCORD&color=1e90ff&style=for-the-badge&logo=discord&logo-color=white"/>
+  </a> -->
 </p>
