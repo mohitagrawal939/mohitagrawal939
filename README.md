@@ -32,7 +32,7 @@
 
 <h1 align="center">Connect</h1>
 <p align="center">
-  <a href="mailto:hello@mohitagrawal.xyz">hello@mohitagrawal.xyz</a>
+  <a href="mailto:hey@mohitagrawal.xyz">hey@mohitagrawal.xyz</a>
   </br></br>
   <a href="https://mohitagrawal.xyz" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1e90ff&style=for-the-badge&logo=react&logo-color=white"/>
