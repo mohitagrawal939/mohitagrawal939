@@ -1,5 +1,5 @@
 
-<img width="100%" alt="git-banner" src="https://github.com/user-attachments/assets/5e023e81-3a9d-480c-80c1-973c98341f5b">
+<img width="100%" alt="git-banner" src="https://github.com/user-attachments/assets/5411abb0-bb45-4321-afc5-47161038ed68">
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=mohitagrawal939&color=brightgreen alt=mohitagrawal939 /></p>
 
