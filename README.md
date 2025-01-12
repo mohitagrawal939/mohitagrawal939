@@ -39,12 +39,9 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1e90ff&style=for-the-badge&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mohitagrawal939" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=1e90ff&style=for-the-badge&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://mohitagrawal.xyz/Resume.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=1e90ff&style=for-the-badge&logo=react&logo-color=white"/>
   </a>
-<!--   <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=DISCORD&color=1e90ff&style=for-the-badge&logo=discord&logo-color=white"/>
-  </a> -->
 </p>
