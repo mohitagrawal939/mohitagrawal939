@@ -41,7 +41,7 @@
   <a href="https://www.linkedin.com/in/mohitagrawal939" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://mohitagrawal.xyz/Resume.pdf" target="_blank">
+  <a href="https://resume.mohitagrawal.xyz" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=1e90ff&style=for-the-badge&logo=react&logo-color=white"/>
   </a>
 </p>
