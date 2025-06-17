@@ -33,15 +33,15 @@
 
 <h1 align="center">Connect</h1>
 <p align="center">
-  <a href="mailto:hey@mohitagrawal.xyz">hey@mohitagrawal.xyz</a>
+  <a href="mailto:hey@mohitagrawal.com">hey@mohitagrawal.com</a>
   </br></br>
-  <a href="https://mohitagrawal.xyz" target="_blank">
+  <a href="https://mohitagrawal.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1e90ff&style=for-the-badge&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mohitagrawal939" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://resume.mohitagrawal.xyz" target="_blank">
+  <a href="https://cv.mohitagrawal.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=1e90ff&style=for-the-badge&logo=react&logo-color=white"/>
   </a>
 </p>
